@@ -1,0 +1,37 @@
+{
+  "id": "2352405",
+  "name": "my-music",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "19653496",
+      "name": "后退",
+      "font_class": "houtui",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "19653498",
+      "name": "快进",
+      "font_class": "kuaijin",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "19653499",
+      "name": "开始",
+      "font_class": "kaishi",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "19653501",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    }
+  ]
+}
